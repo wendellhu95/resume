@@ -1,5 +1,7 @@
 # Wendell Hu - Front End Engineer
 
+[中文版](./README-CN.md)
+
 ## Basic & Contact
 
 - 👦 Wendell Hu 胡文召
