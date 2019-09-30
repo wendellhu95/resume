@@ -18,12 +18,12 @@
 
 ## 实习经历
 
-### **2018.6 ~ 现在 阿里巴巴计算平台事业部 前端实习生**
+### **2018.6 ~ 2019.9 阿里巴巴计算平台事业部 前端实习生**
 
-- 参与阿里实时计算开发平台的设计与开发
-- 参与 flink front end 前端项目的 rework
-- Angular 组件库开发
-- 代码编辑器与语言服务
+- 参与阿里实时计算开发平台的设计与开发.
+- 参与 flink front end 前端项目的 rework.
+- Angular 组件库开发.
+- 负责代码编辑器与语言服务.
 
 以上仅是梗概, 具体内容请阅读下面的[公司项目部分](#公司项目).
 
@@ -50,7 +50,7 @@
 
 基于 ng-zorro-antd 的内部使用的增强组件库. 用于阿里实时计算开发平台, flink runtime web 和其他多个内部产品.
 
-- 开发了 Graph 和 Humanize 之外其余全部组件
+- 开发了 resize / monaco editor wrapper / flow chart editor 等组件.
 
 #### @ali/ng-zorro-language-service (阿里巴巴) - 原作者
 
@@ -72,14 +72,14 @@
 
 Ant Design Icons 的 Angular 适配库, ng-zorro-antd 的依赖. 目前在 npm 上每月有 70,000 下载量.
 
-- 支持图标资源的动态和静态加载, 动态加载请求复用, 自定义图标, 命名空间等功能
+- 支持图标资源的动态和静态加载, 动态加载请求复用, 自定义图标, 命名空间等功能.
 
 ## 技术关键词
 
-- Angular / Ant Design / NG-ZORRO / 组件库
-- React
-- ES6+ / TypeScript
-- Monaco Editor / Language Service / 编译原理
+- Angular / Ant Design / NG-ZORRO / 组件库.
+- React.
+- ES6+ / TypeScript.
+- Monaco Editor / Language Service / 编译原理.
 
 ## 链接
 

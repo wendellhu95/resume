@@ -20,11 +20,12 @@
 
 ## Experience
 
-### **June, 2018 to Now, Front End Intern at Alibaba Inc.**
+### **June, 2018 to Sept, 2019, Front End Engineer Intern at Alibaba Inc.**
 
-- Involved in development of Alibaba Stream Compute Platform
-- Developing components kits for Angular
-- Compiler and language services
+- Involved in development of Alibaba Stream Compute Platform.
+- Joined in the rework of Apache Flink runtime web.
+- Developing components kits for Angular.
+- Compiler and language services.
 
 ## Projects
 
@@ -34,10 +35,10 @@
 
 A component kit based on Angular and Ant Design. It gains 5,000+ stars on GitHub.
 
-- I am in charge of [maintaining dozens of components](https://github.com/NG-ZORRO/ng-zorro-antd/pulls?q=is%3Apr+is%3Aclosed+author%3Awendzhue)
-- I developed components like Icon and Statistics
-- I wrote [a tutorial project](https://github.com/NG-ZORRO/today-ng-steps)
-- I developed our [official blog](https://ng.ant.design/blog)
+- I am in charge of [maintaining dozens of components](https://github.com/NG-ZORRO/ng-zorro-antd/pulls?q=is%3Apr+is%3Aclosed+author%3Awendzhue).
+- I developed components like Icon and Statistics.
+- I wrote [a tutorial project](https://github.com/NG-ZORRO/today-ng-steps).
+- I developed our [official blog](https://ng.ant.design/blog).
 
 #### [@ant-design/icons-angular](https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-angular) - original author / maintainer
 
@@ -66,7 +67,7 @@ It’s a rebuild of the runtime web of Apache Flink with.
 
 A sophisticated component kit based on ng-zorro-antd. Used by Alibaba Stream Compute Platform and many other internal products.
 
-- I developed all components expect for _Graph_ and _Humanize_.
+- I developed all components such as resize / monaco editor wrapper / flow chart editor.
 
 #### @ali/ng-zorro-language-service at Alibaba Inc. - original author
 
