@@ -3,22 +3,16 @@
 ## 基本信息和联系方式
 
 - 👦 胡文召
-- 🔍 前端工程师
 - 👨‍🎓 中国科学技术大学软件工程硕士在读
 - 🕯️ 1995 / 12
-- 📱 +(86) 176-0090-2692
 - 📮 [wendzhue@gmail.com](mailto:wendzhue@gmail.com)
-- 🎤 前端, 主要钻研 Angular 技术栈, ng-zorro-antd 主要维护者, @ant-design/icons-angular 作者, antd contributor
+- 🎤 ng-zorro-antd 主要维护者, @ant-design/icons-angular 作者
 
-## 教育经历
+## 工作经历
 
-### **2017 ~ 2020.6 中国科学技术大学 软件工程硕士**
+### 2019.11 ~ 今 腾讯微信 前端工程师
 
-### **2013 ~ 2017 对外经济贸易大学 工商管理学士**
-
-## 实习经历
-
-### **2018.6 ~ 2019.9 阿里巴巴计算平台事业部 前端实习生**
+### 2018.6 ~ 2019.9 阿里巴巴计算平台事业部 前端实习生
 
 - 参与阿里实时计算开发平台的设计与开发.
 - 参与 flink front end 前端项目的 rework.
@@ -26,6 +20,12 @@
 - 负责代码编辑器与语言服务.
 
 以上仅是梗概, 具体内容请阅读下面的[公司项目部分](#公司项目).
+
+## 教育经历
+
+### 2017 ~ 2020.6 中国科学技术大学 软件工程硕士
+
+### 2013 ~ 2017 对外经济贸易大学 工商管理学士
 
 ## 项目
 
@@ -73,16 +73,3 @@
 Ant Design Icons 的 Angular 适配库, ng-zorro-antd 的依赖. 目前在 npm 上每月有 70,000 下载量.
 
 - 支持图标资源的动态和静态加载, 动态加载请求复用, 自定义图标, 命名空间等功能.
-
-## 技术关键词
-
-- Angular / Ant Design / NG-ZORRO / 组件库.
-- React.
-- ES6+ / TypeScript.
-- Monaco Editor / Language Service / 编译原理.
-
-## 链接
-
-- [GitHub](https://github.com/wendzhue)
-- [个人主页](https://wendell.site/)
-- [博客](https://wendell.site/blog)

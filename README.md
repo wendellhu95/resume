@@ -5,48 +5,31 @@
 ## Basic & Contact
 
 - 👦 Wendell Hu 胡文召
-- 🔍 Front End Engineer
-- 👨‍🎓 Learning Software Engineering at University of Science and Technology of China (USTC)
 - 🕯️ 1995 / 12
-- 📱 +(86) 176-0090-2692
+- 👨‍🎓 Learning Software Engineering at University of Science and Technology of China (USTC)
 - 📮 [wendzhue@gmail.com](mailto:wendzhue@gmail.com)
-- 🎤 Mainly working on Angular and its ecosystem. A maintainer of ng-zorro-antd and the original author of @ant-design/icons-angular. I am also a contributor of Ant Design.
-
-## Education
-
-### **June, 2017 to June 2020, Software Engineering at USTC**
-
-### **2013 to 2017, Bachelor of General Administration at University of International Business and Economics**
+- 🎤 I love open source. A chief maintainer of ng-zorro-antd and the original author of @ant-design/icons-angular.
 
 ## Experience
 
-### **June, 2018 to Sept, 2019, Front End Engineer Intern at Alibaba Inc.**
+### Nov 2019 ~ Now, Front End Engineer at Tencent WeChat
+
+### June 2018 ~ Sept 2019, Front End Engineer Intern at Alibaba Inc.
 
 - Involved in development of Alibaba Stream Compute Platform.
 - Joined in the rework of Apache Flink runtime web.
 - Developing components kits for Angular.
 - Compiler and language services.
 
+## Education
+
+### Aug 2017 ~ June 2020, Software Engineering at USTC
+
+### Sept 2013 ~ June 2017, Bachelor of General Administration at University of International Business and Economics
+
 ## Projects
 
 ### Open Source
-
-#### [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - maintainer
-
-A component kit based on Angular and Ant Design. It gains 5,000+ stars on GitHub.
-
-- I am in charge of [maintaining dozens of components](https://github.com/NG-ZORRO/ng-zorro-antd/pulls?q=is%3Apr+is%3Aclosed+author%3Awendzhue).
-- I developed components like Icon and Statistics.
-- I wrote [a tutorial project](https://github.com/NG-ZORRO/today-ng-steps).
-- I developed our [official blog](https://ng.ant.design/blog).
-
-#### [@ant-design/icons-angular](https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-angular) - original author / maintainer
-
-It adapts Ant Design Icons for Angular, and it is a dependency of ng-zorro-antd.
-
-- Support both dynamic loading and static loading to avoid increasing bundle size insanely.
-
-_👉 You can find some of my [side projects](https://github.com/silicic-acid) here._
 
 ### Business Projects
 
@@ -75,15 +58,19 @@ It provides language services like formatting, autocompletion for SQL-like langu
 
 - I wrote a lexer, a parser, a formatter and several adapters for it.
 
-## Keywords
+#### [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - maintainer
 
-- Angular / Ant Design / NG-ZORRO / Component Kits
-- React
-- ES6+ / TypeScript
-- Monaco Editor / Language Service / Compiling
+A component kit based on Angular and Ant Design. It gains 5,000+ stars on GitHub.
 
-## Links
+- I am in charge of [maintaining dozens of components](https://github.com/NG-ZORRO/ng-zorro-antd/pulls?q=is%3Apr+is%3Aclosed+author%3Awendzhue).
+- I developed components like Icon and Statistics.
+- I wrote [a tutorial project](https://github.com/NG-ZORRO/today-ng-steps).
+- I developed our [official blog](https://ng.ant.design/blog).
 
-- [GitHub](https://github.com/wendzhue)
-- [Homepage](https://wendell.site/)
-- [Blog](http://wendell.site/blog)
+#### [@ant-design/icons-angular](https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-angular) - original author / maintainer
+
+It adapts Ant Design Icons for Angular, and it is a dependency of ng-zorro-antd.
+
+- Support both dynamic loading and static loading to avoid increasing bundle size insanely.
+
+_👉 You can find some of my [side projects](https://github.com/silicic-acid) here._
