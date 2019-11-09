@@ -72,5 +72,3 @@ A component kit based on Angular and Ant Design. It gains 5,000+ stars on GitHub
 It adapts Ant Design Icons for Angular, and it is a dependency of ng-zorro-antd.
 
 - Support both dynamic loading and static loading to avoid increasing bundle size insanely.
-
-_👉 You can find some of my [side projects](https://github.com/silicic-acid) here._
