@@ -5,7 +5,7 @@
 - 👦 胡文召
 - 👨‍🎓 中国科学技术大学软件工程硕士在读
 - 🕯️ 1995 / 12
-- 📮 [wendzhue@gmail.com](mailto:wendzhue@gmail.com)
+- 📮 [wendellhu95@gmail.com](mailto:wendellhu95@gmail.com)
 - 🎤 ng-zorro-antd 主要维护者, @ant-design/icons-angular 作者
 
 ## 工作经历
@@ -64,7 +64,7 @@
 
 基于 Angular 和 Ant Design 设计规范的 Angular 组件库. 目前在 GitHub 上有 5,000+ star, npm 上每月有 70,000 下载量.
 
-- 负责十余个组件的维护和功能的开发, 开发新的组件等, [可以在这里看到我的工作](https://github.com/NG-ZORRO/ng-zorro-antd/pulls?q=is%3Apr+is%3Aclosed+author%3Awendzhue).
+- 负责十余个组件的维护和功能的开发, 开发新的组件等.
 - 开发和撰写 [ng-zorro-antd 新手入门项目](https://github.com/NG-ZORRO/today-ng-steps).
 - 使用 Gatsby 搭建了我们的[官方博客](https://ng.ant.design/blog).
 

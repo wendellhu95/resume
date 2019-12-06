@@ -7,7 +7,7 @@
 - 👦 Wendell Hu 胡文召
 - 🕯️ 1995 / 12
 - 👨‍🎓 Learning Software Engineering at University of Science and Technology of China (USTC)
-- 📮 [wendzhue@gmail.com](mailto:wendzhue@gmail.com)
+- 📮 [wendellhu95@gmail.com](mailto:wendellhu95@gmail.com)
 - 🎤 I love open source. A chief maintainer of ng-zorro-antd and the original author of @ant-design/icons-angular.
 
 ## Experience
@@ -62,7 +62,7 @@ It provides language services like formatting, autocompletion for SQL-like langu
 
 A component kit based on Angular and Ant Design. It gains 5,000+ stars on GitHub.
 
-- I am in charge of [maintaining dozens of components](https://github.com/NG-ZORRO/ng-zorro-antd/pulls?q=is%3Apr+is%3Aclosed+author%3Awendzhue).
+- I am in charge of maintaining dozens of components.
 - I developed components like Icon and Statistics.
 - I wrote [a tutorial project](https://github.com/NG-ZORRO/today-ng-steps).
 - I developed our [official blog](https://ng.ant.design/blog).
