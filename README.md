@@ -1,29 +1,32 @@
 # Wendell Hu - Front End Engineer
 
-[中文版](./README-CN.md)
-
 ## Basic & Contact
 
 - 👦 Wendell Hu 胡文召
 - 🕯️ 1995 / 12
 - 👨‍🎓 Learning Software Engineering at University of Science and Technology of China (USTC)
-- 📮 [wendellhu95@gmail.com](mailto:wendellhu95@gmail.com)
-- 🎤 I love open source. A chief maintainer of ng-zorro-antd and the original author of @ant-design/icons-angular.
+- 📮 Email [wendellhu95@gmail.com](mailto:wendellhu95@gmail.com)
+
+I love open source. A chief maintainer of [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) and the original author of @ant-design/icons-angular.
 
 ## Experience
 
-### Nov 2019 ~ Now, Front End Engineer at Tencent WeChat
+### Nov 2019 ~ April 2020, Front End Engineer Intern at Tencent WeChat
+
+*I will join WeChat team as a full-time employee by the end of July 2020.*
+
+- Worked on infrastructure and refactoring.
 
 ### June 2018 ~ Sept 2019, Front End Engineer Intern at Alibaba Inc.
 
-- Involved in development of Alibaba Stream Compute Platform.
+- Take a part in development of Alibaba Stream Compute Platform.
 - Joined in the rework of Apache Flink runtime web.
-- Developing components kits for Angular.
+- Developed components kits for Angular.
 - Compiler and language services.
 
 ## Education
 
-### Aug 2017 ~ June 2020, Software Engineering at USTC
+### Aug 2017 ~ July 2020, Software Engineering at USTC
 
 ### Sept 2013 ~ June 2017, Bachelor of General Administration at University of International Business and Economics
 
